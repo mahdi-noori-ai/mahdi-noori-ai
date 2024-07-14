@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Data scienist & machine learning developer<br>- 📚 I'm currently learning google cloud engineering , SAAs architecture design , data engineering<br>- ⚡ In my free time I study saas and research saas market and businees</p>
+<p align="left"><br><br>- 🔭 I’m working as Data scienist & machine learning developer<br>- 📚 I'm currently learning google cloud engineering , SAAs architecture design , data engineering<br>- ⚡ In my free time I study saas and research saas market and businees</p>
 
 ###
 
