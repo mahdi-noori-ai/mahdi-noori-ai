@@ -60,7 +60,3 @@ Here are some highlights of my work:
 </div>
 
 ###
-## **Contribution Snake**
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/mahdi-noori-ai/mahdi-noori-ai/output/github-contribution-grid-snake.svg)
-###
