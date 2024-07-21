@@ -39,8 +39,6 @@ Here are some highlights of my work:
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postman" height="32" alt="postman logo"  />
-  <img width="15" />
 </div>
 
 ###
