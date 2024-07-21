@@ -22,8 +22,6 @@ Here are some highlights of my work:
 - **Version Control**: Git, GitHub
 
 ###
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-noori-ai&show_icons=true&theme=radical)
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
@@ -41,6 +39,11 @@ Here are some highlights of my work:
   <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
   <img width="15" />
 </div>
+
+###
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-noori-ai&show_icons=true&theme=radical)
+###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-noori-ai&layout=compact&theme=radical)
 
 ###
 
