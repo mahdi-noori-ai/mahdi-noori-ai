@@ -60,3 +60,7 @@ Here are some highlights of my work:
 </div>
 
 ###
+## **Pinned Repositories**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mahdi-noori-ai&repo=your-repo-name&theme=radical)](https://github.com/mahdi-noori-ai/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mahdi-noori-ai&repo=another-repo-name&theme=radical)](https://github.com/mahdi-noori-ai/another-repo-name)
