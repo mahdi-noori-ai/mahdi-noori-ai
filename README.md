@@ -62,5 +62,5 @@ Here are some highlights of my work:
 ###
 ## **Pinned Repositories**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mahdi-noori-ai&repo=your-repo-name&theme=radical)](https://github.com/mahdi-noori-ai/your-repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mahdi-noori-ai&repo=another-repo-name&theme=radical)](https://github.com/mahdi-noori-ai/another-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mahdi-noori-ai&repo=your-repo-name&theme=radical)]([https://github.com/mahdi-noori-ai/Deep-Learning](https://github.com/mahdi-noori-ai/Deep-Learning))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mahdi-noori-ai&repo=another-repo-name&theme=radical)]([https://github.com/mahdi-noori-ai/another-repo-name](https://github.com/mahdi-noori-ai/Natural-Language-Processing))
