@@ -21,7 +21,8 @@ Here are some highlights of my work:
 - **Cloud Platforms**: AWS, Azure
 - **Version Control**: Git, GitHub
 
-
+###
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-noori-ai&show_icons=true&theme=radical)
 ###
 
 <div align="left">
