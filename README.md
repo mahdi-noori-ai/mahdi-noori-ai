@@ -1,9 +1,9 @@
 <h4 align="left">Hello, I'm Mahdi
 
-Welcome to my GitHub profile🚀! I'm a passionate deep learning and AI enthusiast dedicated to pushing the boundaries of technology and innovation. Here's a bit about me:
+Welcome to my GitHub profile🚀! 
 
 ## **About Me 🎯**
-My journey in the field of AI started with a curiosity about how machines can learn.
+My journey in the field of AI started with a curiosity about how machines can learn. I'm a passionate deep learning and AI enthusiast dedicated to pushing the boundaries of technology and innovation.
 
 ## **Projects📑**
 Here are some highlights of my work:
