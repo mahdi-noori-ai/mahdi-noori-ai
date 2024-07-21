@@ -1,4 +1,26 @@
-<h4 align="left">Hello, I'm Mahdi<br><br>Welcome to my GitHub profile🚀! I'm a passionate deep learning and AI enthusiast dedicated to pushing the boundaries of technology and innovation. Here's a bit about me:<br><br> ##About Me🤝<br>My journey in the field of AI started with a curiosity about how machines can learn .<br><br>##Projects<br>Here are some highlights of my work:<br>Deep learning , Machine learning , NLP , GAN's , Computer vision , Reinforcement Learning<br><br> ##Technical Skills📚<br>- Languages: Python<br>- Frameworks: TensorFlow, PyTorch, Keras<br>- Tools: Pandas, NumPy, OpenCV, Docker, TensorFlow <br>- Cloud Platforms:** AWS, Azure<br>- Version Control: Git, GitHub</h4>
+<h4 align="left"># Hello, I'm Mahdi
+
+Welcome to my GitHub profile🚀! I'm a passionate deep learning and AI enthusiast dedicated to pushing the boundaries of technology and innovation. Here's a bit about me:
+
+## **About Me🤝**
+My journey in the field of AI started with a curiosity about how machines can learn.
+
+## **Projects**
+Here are some highlights of my work:
+- Deep Learning
+- Machine Learning
+- NLP
+- GANs
+- Computer Vision
+- Reinforcement Learning
+
+## **Technical Skills📚**
+- **Languages**: Python
+- **Frameworks**: TensorFlow, PyTorch, Keras
+- **Tools**: Pandas, NumPy, OpenCV, Docker, TensorFlow
+- **Cloud Platforms**: AWS, Azure
+- **Version Control**: Git, GitHub
+
 
 ###
 
