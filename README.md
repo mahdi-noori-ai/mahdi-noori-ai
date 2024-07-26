@@ -36,7 +36,7 @@ Here are some highlights of my work:
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
   <img width="15" />
-    <img src="https://skillicons.dev/icons?i=scikit-learn" height="32" alt="scikit-learn logo" />
+  <img src="https://skillicons.dev/icons?i=scikit-learn" height="32" alt="scikit-learn logo" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=keras" height="32" alt="keras logo" />
   <img width="15" />
