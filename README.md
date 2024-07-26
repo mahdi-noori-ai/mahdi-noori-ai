@@ -42,14 +42,8 @@ Here are some highlights of my work:
   <!-- Keras -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="32" alt="keras logo" />
   <img width="15" />
-  <!-- Plotly -->
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/plotly/plotly.png" height="32" alt="plotly logo" />
-  <img width="15" />
   <!-- Seaborn -->
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="32" alt="seaborn logo" />
-  <img width="15" />
-  <!-- NLTK -->
-  <img src="https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/images/logo.png" height="32" alt="nltk logo" />
   <img width="15" />
   <!-- SciPy -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="32" alt="scipy logo" />
