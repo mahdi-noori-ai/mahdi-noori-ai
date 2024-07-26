@@ -34,8 +34,6 @@ Here are some highlights of my work:
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" alt="pytorch logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=aws" height="32" alt="amazonwebservices logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
   <img width="15" />
 </div>
