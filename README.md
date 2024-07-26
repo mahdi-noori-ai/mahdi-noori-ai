@@ -36,20 +36,23 @@ Here are some highlights of my work:
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=python" height="32" alt="python logo" />
+   <!-- Scikit-learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="32" alt="scikit-learn logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="32" alt="keras logo" />
+  <!-- Keras -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="32" alt="keras logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=plotly" height="32" alt="plotly logo" />
+  <!-- Plotly -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Plotly-logo.png/640px-Plotly-logo.png" height="32" alt="plotly logo" />
   <img width="15" />
-  <!-- Placeholder for seaborn -->
-  <img src="https://skillicons.dev/icons?i=python" height="32" alt="seaborn logo" />
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="32" alt="seaborn logo" />
   <img width="15" />
-  <!-- Placeholder for nltk -->
-  <img src="https://skillicons.dev/icons?i=python" height="32" alt="nltk logo" />
+  <!-- NLTK -->
+  <img src="https://www.nltk.org/images/logo.png" height="32" alt="nltk logo" />
   <img width="15" />
-  <!-- Placeholder for scipy -->
-  <img src="https://skillicons.dev/icons?i=python" height="32" alt="scipy logo" />
+  <!-- SciPy -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="32" alt="scipy logo" />
   <img width="15" />
 </div>
 
