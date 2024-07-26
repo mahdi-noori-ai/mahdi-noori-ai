@@ -36,6 +36,18 @@ Here are some highlights of my work:
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
   <img width="15" />
+    <img src="https://skillicons.dev/icons?i=scikit-learn" height="32" alt="scikit-learn logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=keras" height="32" alt="keras logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=plotly" height="32" alt="plotly logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=seaborn" height="32" alt="seaborn logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nltk" height="32" alt="nltk logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=scipy" height="32" alt="scipy logo" />
+  <img width="15" />
 </div>
 
 ###
