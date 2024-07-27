@@ -3,7 +3,7 @@
 Welcome to my GitHub profile🚀! 
 
 ## **About Me 🎯**
-My journey in the field of AI started with a curiosity about how machines can learn. I'm a passionate deep learning and AI enthusiast dedicated to pushing the boundaries of technology and innovation.
+My journey in the field of AI started with a curiosity about how machines can learn. I'm a passionate deep learning and AI enthusiast dedicated to pushing the boundaries of technology and innovation , right now im learning about cloud computing , Data Engineering , Advanced Deep learning papers . 
 
 ## **Projects📑**
 Here are some highlights of my work:
@@ -16,11 +16,13 @@ Here are some highlights of my work:
 
 ## **Technical Skills📚**
 - **Languages**: Python
-- **Frameworks**: TensorFlow, PyTorch, Keras
-- **Tools**: Pandas, NumPy, OpenCV, Docker, TensorFlow
-- **Cloud Platforms**: AWS, Azure
-- **Version Control**: Git, GitHub
-
+- **Frameworks**: TensorFlow, PyTorch, Keras ,sklearn , matpltlib , NUmpy , Transformers
+- **Tools**: Pandas, NumPy, OpenCV, Docker, TensorFlow ,NLTK ,XGboost , Pandas , seaborn
+- **Model Deployment**:TensorFlow Serving , MLflow
+- **Cloud Platforms**: Google Cloud , AWS
+- **Version Control**: Git , GitHub
+- **Big Data Tools** : Apache Hadoop , Apache Spark
+- **-IDEs**: Google Colab , Jupyter Notebook , VS code
 ###
 
 <div align="left">
