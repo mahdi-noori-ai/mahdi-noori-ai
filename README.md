@@ -10,13 +10,14 @@ Here are some highlights of my work:
 - Deep Learning
 - Machine Learning
 - NLP
-- GANs
+- GAN's
 - Computer Vision
+- Python
 - Reinforcement Learning
 
 ## **Technical Skills📚**
 - **Languages**: Python
-- **Frameworks**: TensorFlow, PyTorch, Keras ,sklearn , matpltlib , NUmpy , Transformers
+- **Frameworks**: TensorFlow, PyTorch, Keras ,sklearn , matpltlib , NUmpy , Transformers ,pandas, CV2
 - **Tools**: Pandas, NumPy, OpenCV, Docker, TensorFlow ,NLTK ,XGboost , Pandas , seaborn
 - **Model Deployment**:TensorFlow Serving , MLflow
 - **Cloud Platforms**: Google Cloud , AWS
