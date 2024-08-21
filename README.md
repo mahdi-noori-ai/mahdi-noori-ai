@@ -64,6 +64,7 @@ Here are some highlights of my work:
   <a href="https://www.linkedin.com/in/mahdi-noori-3b3822286/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
+  ![Mahdi Noori AI](https://img.shields.io/badge/Mahdi%20Noori%20AI-Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mahdi.noori.ai/)
   <a href="https://www.youtube.com/@Mahdi-noori-ai" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
   </a>
