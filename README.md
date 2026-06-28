@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Mahdi%20Noori&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Microservices%20%7C%20FinTech%20%26%20Quant%20Products&descSize=17&descAlignY=58" />
-
 </div>
 
 <div align="center">
